@@ -5,5 +5,5 @@ You can download the src and use Qt to try it!
 
 
 reference:
-[Google](http://www.google.com/)
-[Google](http://www.google.com/)
+[ZaunChat](https://github.com/jbji/ZaunChat)
+[jim-lite](https://github.com/mmdjiji/jim-lite)
